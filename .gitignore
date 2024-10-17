@@ -1,0 +1,10 @@
+.env
+eslint.config.mjs
+package-lock.json
+node_modules
+logs
+tokens
+config/env
+config/service-account.json
+config/client.json
+test/files
